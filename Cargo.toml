@@ -1,0 +1,11 @@
+[package]
+name = "grizzy-autoclicker"
+version = "0.1.0"
+authors = ["ctt.thiz@gmail.com"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+enigo = "0.1.2"
+inputbot = "0.5.1"
